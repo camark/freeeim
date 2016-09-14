@@ -1,0 +1,143 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: EIM02 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/EIM02.res" /d "_DEBUG" /d "_AFXDLL" "C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EIM02.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP460A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/EIM02.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EIM02.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EIM02Dlg.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EIM_ViewHistory.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EIMChatingWaiter.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EM_FileReceiving.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EM_FileSendingDlg.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EM_GroupInfo.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EM_MsgDlg.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EM_RecvChat.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EM_SendChat.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EM_UserInfo.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EM_UserLogin.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\EM_UserProperty.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EM_UserTree.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\EMRichEdit.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\freeeim_config.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\freeeim_history.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\freeeim_message_logic.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\freeeim_package.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\freeeim_user_logic.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\thirdpartclass\GetHardSoftInfo.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\ImageDataObject.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\thirdpartclass\INI.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\MSGReceiver.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\thirdpartclass\PictureEx.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\em\stdemdef.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\thirdpartclass\SystemTray.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\UserSettingDlg.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\WaveIn.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\WaveOut.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\webbrowser2.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\thirdpartclass\WinAppEx.cpp"
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\XEIM_Database.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP460A.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP461A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/EIM02.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\soft\freeeim_FreeEIM 企业即时通讯软件源代码2010年8月份最新版\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP461A.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP461B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/freeeim.pdb" /debug /machine:I386 /out:"Debug/freeeim.exe" /pdbtype:sept 
+".\Debug\EIM02.obj"
+".\Debug\EIM02Dlg.obj"
+".\Debug\EIM_ViewHistory.obj"
+".\Debug\EIMChatingWaiter.obj"
+".\Debug\EM_FileReceiving.obj"
+".\Debug\EM_FileSendingDlg.obj"
+".\Debug\EM_GroupInfo.obj"
+".\Debug\EM_MsgDlg.obj"
+".\Debug\EM_RecvChat.obj"
+".\Debug\EM_SendChat.obj"
+".\Debug\EM_UserInfo.obj"
+".\Debug\EM_UserLogin.obj"
+".\Debug\EM_UserProperty.obj"
+".\Debug\EM_UserTree.obj"
+".\Debug\EMRichEdit.obj"
+".\Debug\freeeim_config.obj"
+".\Debug\freeeim_history.obj"
+".\Debug\freeeim_message_logic.obj"
+".\Debug\freeeim_package.obj"
+".\Debug\freeeim_user_logic.obj"
+".\Debug\GetHardSoftInfo.obj"
+".\Debug\ImageDataObject.obj"
+".\Debug\INI.obj"
+".\Debug\MSGReceiver.obj"
+".\Debug\PictureEx.obj"
+".\Debug\StdAfx.obj"
+".\Debug\stdemdef.obj"
+".\Debug\SystemTray.obj"
+".\Debug\UserSettingDlg.obj"
+".\Debug\WaveIn.obj"
+".\Debug\WaveOut.obj"
+".\Debug\webbrowser2.obj"
+".\Debug\WinAppEx.obj"
+".\Debug\XEIM_Database.obj"
+".\Debug\EIM02.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP461B.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+EIM02.cpp
+EIM02Dlg.cpp
+EIM_ViewHistory.cpp
+EIMChatingWaiter.cpp
+EM_FileReceiving.cpp
+EM_FileSendingDlg.cpp
+EM_GroupInfo.cpp
+EM_MsgDlg.cpp
+EM_RecvChat.cpp
+EM_SendChat.cpp
+EM_UserInfo.cpp
+EM_UserLogin.cpp
+EM_UserProperty.cpp
+EM_UserTree.cpp
+EMRichEdit.cpp
+freeeim_config.cpp
+freeeim_history.cpp
+freeeim_message_logic.cpp
+freeeim_package.cpp
+freeeim_user_logic.cpp
+Generating Code...
+Compiling...
+GetHardSoftInfo.cpp
+ImageDataObject.cpp
+INI.cpp
+MSGReceiver.cpp
+PictureEx.cpp
+stdemdef.cpp
+SystemTray.cpp
+UserSettingDlg.cpp
+WaveIn.cpp
+WaveOut.cpp
+webbrowser2.cpp
+WinAppEx.cpp
+XEIM_Database.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+freeeim.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
